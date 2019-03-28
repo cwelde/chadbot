@@ -1,1 +1,6 @@
-import tweety
+import tweepy
+
+
+
+if __name__ == "__main__":
+    print("Hello")
